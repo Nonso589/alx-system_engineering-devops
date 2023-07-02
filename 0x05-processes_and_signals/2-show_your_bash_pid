@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# script that displays bash process
+
+ps -aux | grep bash
